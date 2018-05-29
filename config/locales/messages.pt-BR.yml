@@ -1,0 +1,8 @@
+"pt-BR":
+  messages:
+    confirm: "Você tem certeza?"
+    listing: "Listando"
+    errors: "Erros impediram o salvamento..."
+    created: "Item criado com sucesso!"
+    updated: "Item atualizado com sucesso!"
+    destroyed: "Item excluído com sucesso!"
